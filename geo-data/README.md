@@ -12,7 +12,7 @@
 
 
 ## Используемые библиотеки
-`pandas` `numpy` `scikit-learn` `bootstrap`
+`pandas` `numpy` `scikit-learn` `bootstrap` `доверительный интервал`
 
 
 
