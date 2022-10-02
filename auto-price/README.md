@@ -19,3 +19,7 @@
 
 ## Используемые библиотеки
 `pandas` `numpy` `lightgbm` `catboost` `phik` `scikit-learn` `matplotlib`
+
+## Результат проекта
+
+Построены три модели CatBoost, LightGBM и RandomForestRegressor. Скорость и качество предсказаний за моделью CatBoost.
